@@ -1,0 +1,190 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    background: #082651;
+}
+
+p {
+    font-size: 16px;
+}
+
+.sbo_navbar {
+    background: #93c0ff;
+
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+    color: #5e5e5e;
+    background-color: transparent;
+    color: #777;
+    margin-top: -50px;
+    background: #93c0ff;
+}
+
+.contact_bar .container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #082651 !important;
+}
+
+.contact_bar p {
+
+    color: #fff;
+}
+
+.title-menu {
+    text-align: right;
+    position: absolute;
+    right: 12px;
+    color: #ffe800;
+    text-transform: uppercase;
+    top: 5px;
+    background: #082651;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+@media only screen and (min-width: 992px) {
+    .title-menu {
+        display: none;
+    }
+}
+
+
+
+
+.contact_bar h2 {
+
+    color: #fff;
+}
+
+.contact_bar span {
+    color: #ffe800;
+}
+
+.contact_bar a {
+    color: #ffe800;
+}
+
+.contact_bar h3 {
+    margin: 0;
+    color: #fff;
+}
+
+.navbar-brand {
+    height: inherit;
+}
+
+.navbar-default {
+    background: none !important;
+    border: none;
+    margin: 0;
+}
+
+.btn-regis {
+    width: 240px;
+    height: 60px;
+    line-height: 45px;
+    font-size: 21px;
+    max-width: 100%;
+}
+
+button.navbar-toggle {
+    margin-top: 30px !important;
+    color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.main-content {
+    background: #fff;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.container {
+    background: #fff;
+}
+
+.sbo_navbar .container {
+    background: #93c0ff;
+}
+
+ul.nav.navbar-nav.navbar-right a {
+    color: #243c7a;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.entrance img {
+    margin: 0 auto;
+    width: 100%;
+    padding: 20px 0;
+}
+
+#footer .container {
+    color: #fff;
+    background: #2a2a2a;
+    padding: 40px;
+}
+
+.img-center {
+    margin: 0 auto;
+}
+
+#footer .container p {
+    margin-top: 20px;
+}
+
+.copyright p {
+    margin: 10px 0;
+}
+
+.copyright .container {
+    background: #93c0ff;
+    color: #fff;
+    text-align: center;
+}
+
+.page .thumbnail {
+    margin-top: 20px;
+}
+
+.page .caption {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.page .container {
+    background: #ffffff;
+}
+
+
+@media only screen and (min-width: 991px) {
+    .navbar-default .navbar-brand {
+        color: #777;
+        margin-top: -50px;
+        background: #93c0ff;
+        border-radius: 15px;
+    }
+    .navbar-right {
+
+        margin-top: -20px;
+    }
+    .sbo_navbar {
+
+        height: 50px;
+    }
+}
+
+section#footer ul {
+    list-style: none !important;
+    color: #fff;
+}
+
+section#footer a {
+
+    color: #fff;
+}
